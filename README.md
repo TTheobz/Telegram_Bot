@@ -1,5 +1,7 @@
 # Theo_bz - Bot de Gerenciamento de Livros
 
+o bot foi testado usando a API [library_api](https://github.com/AndreBezer/Library_API_flask)
+
 Um bot do Telegram que lista livros cadastrados em uma API local, formatando-os como `"título --- autor"`.
 
 ## 📋 Requisitos
